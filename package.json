@@ -1,0 +1,20 @@
+{
+  "name": "cssb-logger",
+  "version": "0.0.1",
+  "description": "A logger engine for Cssb",
+  "author": "xNok <nokwebspace@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xNok/Cssb-logger"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "logger"
+  ],
+  "author": "",
+  "license": "ISC"
+}
