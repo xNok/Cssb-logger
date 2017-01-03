@@ -1,8 +1,8 @@
 {
   "name": "wauw-logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A log for node.js",
-  "author": "xNok <nokwebspace@gmail.com>",
+  "author": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/xNok/wauw-logger"
@@ -15,6 +15,11 @@
     "log",
     "logger"
   ],
-  "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bash-color": "0.0.4",
+    "immutable": "^3.8.1",
+    "is": "^3.2.0",
+    "util": "^0.10.3"
+  }
 }
