@@ -1,11 +1,11 @@
 {
-  "name": "cssb-logger",
+  "name": "wauw-logger",
   "version": "0.0.1",
-  "description": "A logger engine for Cssb",
+  "description": "A log for node.js",
   "author": "xNok <nokwebspace@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xNok/Cssb-logger"
+    "url": "https://github.com/xNok/wauw-logger"
   },
   "main": "index.js",
   "scripts": {
